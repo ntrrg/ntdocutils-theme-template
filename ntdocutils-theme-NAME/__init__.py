@@ -30,7 +30,7 @@ class Writer(NtDocutilsWriter):
 
         if self.server == "local":
             server = self.theme
-        else
+        else:
             server = self.server
 
         # Templates for assets
