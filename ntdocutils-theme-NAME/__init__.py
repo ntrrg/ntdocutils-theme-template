@@ -28,6 +28,11 @@ class Writer(NtDocutilsWriter):
     def assets(self):
         assets = {}
 
+        if self.server == "local":
+            server = self.theme
+        else
+            server = self.server
+
         # Templates for assets
         stylesheet = "<link rel='stylesheet' href='{}' />"
 
