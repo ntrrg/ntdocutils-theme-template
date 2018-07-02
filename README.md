@@ -7,11 +7,11 @@ $ wget -c 'https://github.com/ntrrg/ntdocutils-theme-template/archive/master.tar
 ```
 
 ```shell-session
-$ tar -xvf ntdocutils-theme-template-master.tar.gz
+$ tar -xvf master.tar.gz
 ```
 
 ```shell-session
-$ rm ntdocutils-theme-template-master.tar.gz
+$ rm master.tar.gz
 ```
 
 Set you prefences.
