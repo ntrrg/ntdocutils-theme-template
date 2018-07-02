@@ -1,0 +1,10 @@
+*.sublime*
+*.swp
+Session.vim
+nogit-*
+__pycache__
+*.egg-info
+/build/
+/dist/
+.DS_Store
+

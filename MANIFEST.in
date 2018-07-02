@@ -1,0 +1,4 @@
+include LICENSE
+recursive-include ntdocutils-theme-{{ Name }} *
+global-exclude __pycache__
+global-exclude *.py[co]

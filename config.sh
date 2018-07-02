@@ -1,0 +1,8 @@
+NAME=""
+VERSION=""
+DESCRIPTION=""
+URL=""
+AUTHOR=""
+EMAIL=""
+SERVER=""
+
