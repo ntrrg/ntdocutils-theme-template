@@ -40,6 +40,8 @@ Subtitle
 Theme
 =====
 
+**Add the theme features here.**
+
 Paragraphs
 ==========
 

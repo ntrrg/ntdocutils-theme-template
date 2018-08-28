@@ -1,12 +1,11 @@
 ## Install
 
-This theme requires:
+**Requirements:**
 
 * Python >= 3.4
-* NtDocutils >= 1.0.0 (auto installed)
 
 ```shell-session
-# pip install ntdocutils-theme-{{ Name }}
+$ pip install ntdocutils-theme-{{ Name }}
 ```
 
 ## Usage
@@ -47,6 +46,6 @@ And that's it, you already have a HTML file.
 ## Uninstall
 
 ```shell-session
-# pip uninstall -y ntdocutils-theme-{{ Name }}
+$ pip uninstall -y ntdocutils-theme-{{ Name }}
 ```
 
